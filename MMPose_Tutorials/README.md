@@ -1,4 +1,8 @@
 # OpenMMLab AI实战营第一次作业
+rtmdet日志目录：[rtmdet_tiny_ear](mmdetection%2Fwork_dirs%2Frtmdet_tiny_ear)
+
+rtmpose日志目录：[rtmpose-s-ear](mmpose%2Fwork_dirs%2Frtmpose-s-ear)
+
 rtmdet测试评估指标
 ![rtmdet测试评估指标.png](rtmdet%E6%B5%8B%E8%AF%95%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87.png)
 rtmpose测试评估指标
