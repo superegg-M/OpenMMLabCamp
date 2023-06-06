@@ -6,6 +6,15 @@
       <sourceFolder url="file://$MODULE_DIR$/MMPose_Tutorials/2023/0524/mmpose" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmdetection" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmpose" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmdetection/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmdetection/mmdet.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmdetection/mmdet/.mim" />
+      <excludeFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmdetection/outputs/E2_rtmdet/vis/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmdetection/tests/data" />
+      <excludeFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmpose/demo/.ipynb_checkpoints" />
+      <excludeFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmpose/mmpose.egg-info" />
+      <excludeFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmpose/mmpose/.mim" />
+      <excludeFolder url="file://$MODULE_DIR$/MMPose_Tutorials/mmpose/outputs/G2_Fasterrcnn-RTMPose/.ipynb_checkpoints" />
     </content>
     <orderEntry type="jdk" jdkName="OpenMMLab" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
