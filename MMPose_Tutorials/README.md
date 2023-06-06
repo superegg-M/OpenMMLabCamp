@@ -1,11 +1,7 @@
-# MMPose教程
+# OpenMMLab AI实战营第一次作业
 
-OpenMMLab 主页：https://openmmlab.com
+![my_ear.jpg](mmdetection%2Foutputs%2FE2_rtmdet%2Fvis%2Fmy_ear.jpg)
+[my_ear_video_rtmdet.mp4](mmdetection%2Foutputs%2Fmy_ear_video_rtmdet.mp4)
 
-MMPose主页：https://github.com/open-mmlab/mmpose
-
-视频讲解：同济子豪兄 https://space.bilibili.com/1900783
-
-代码测试[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1)：GPU RTX 3060、CUDA v11.2
-
-添加OpenMMLab喵喵小助手微信：OpenMMLabwx 回复 子豪兄三角板 ，即可免费加入MMPose/MMHuman3D/关键点检测交流群，同济子豪兄和众多Pose大佬也在群里哦~
+![my_ear.jpg](mmpose%2Foutputs%2FG2_Fasterrcnn-RTMPose%2Fmy_ear.jpg)
+[my_ear.mp4](mmpose%2Foutputs%2FG2_Video%2Fmy_ear.mp4)
