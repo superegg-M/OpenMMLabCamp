@@ -1,7 +1,11 @@
 # OpenMMLab AI实战营第一次作业
-
+rtmdet测试评估指标
+![rtmdet测试评估指标.png](rtmdet%E6%B5%8B%E8%AF%95%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87.png)
+rtmpose测试评估指标
+![rtmpose测试评估指标.png](rtmpose%E6%B5%8B%E8%AF%95%E8%AF%84%E4%BC%B0%E6%8C%87%E6%A0%87.png)
+rtmdet预测结果
 ![my_ear.jpg](mmdetection%2Foutputs%2FE2_rtmdet%2Fvis%2Fmy_ear.jpg)
 [my_ear_video_rtmdet.mp4](mmdetection%2Foutputs%2Fmy_ear_video_rtmdet.mp4)
-
+rtmpose预测结果
 ![my_ear.jpg](mmpose%2Foutputs%2FG2_Fasterrcnn-RTMPose%2Fmy_ear.jpg)
 [my_ear.mp4](mmpose%2Foutputs%2FG2_Video%2Fmy_ear.mp4)
