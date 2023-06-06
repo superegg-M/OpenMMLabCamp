@@ -15,4 +15,4 @@ rtmdet预测结果
 
 rtmpose预测结果
 ![my_ear.jpg](mmpose%2Foutputs%2FG2_Fasterrcnn-RTMPose%2Fmy_ear.jpg)
-![my_ear_rtmpose](https://github.com/superegg-M/OpenMMLabCamp/assets/53904232/900bce65-4940-4ac1-b5ab-077bffa41a13)
+![my_ear_rtmpose](https://github.com/superegg-M/OpenMMLabCamp/assets/53904232/7df25d80-3c7b-4ad7-a5d2-570175cf0053)
