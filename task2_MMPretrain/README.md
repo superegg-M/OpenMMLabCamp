@@ -10,5 +10,6 @@
 06/11 17:12:03 - mmengine - INFO - Epoch(test) [28/28]    accuracy/top1: 84.7973  accuracy/top5: 97.5225  data_time: 0.0090  time: 0.1315
 ```
 - 预测图片结果：
+
 ![草莓.png](output%2F%E8%8D%89%E8%8E%93.png)
 ![菠萝.png](output%2F%E8%8F%A0%E8%90%9D.png)
