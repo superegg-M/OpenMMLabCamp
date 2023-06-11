@@ -1,12 +1,12 @@
-_base_ = '../task1_MMPose/mmdetection/configs/rtmdet/rtmdet_tiny_8xb32-300e_coco.py'
+_base_ = '../../task1_MMPose/mmdetection/configs/rtmdet/rtmdet_tiny_8xb32-300e_coco.py'
 
-data_root = 'ballon_dataset/balloon/'
+data_root = '../balloon_dataset/balloon/'
 
 # 非常重要
 metainfo = {
     # 类别名，注意 classes 需要是一个 tuple，因此即使是单类，
     # 你应该写成 `cat,` 很多初学者经常会在这犯错
-    'classes': ('ballon',),
+    'classes': ('balloon',),
     'palette': [
         (220, 20, 60),
     ]

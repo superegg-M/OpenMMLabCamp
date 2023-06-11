@@ -5,7 +5,7 @@ from collections import defaultdict
 import cv2
 
 # 读取JSON文件
-with open('balloon_dataset/balloon/val/via_region_data.json') as f:
+with open('../balloon_dataset/balloon/val/via_region_data.json') as f:
 # with open('balloon_dataset/balloon/train/via_region_data.json') as f:
     annotations = json.load(f)
 
@@ -43,7 +43,7 @@ for image_id, image_info in annotations.items():
     filename = image_info['filename']
     size = image_info['size']
     # 获取图像的height和width
-    img = cv2.imread(os.path.join('balloon_dataset/balloon/val/', filename))
+    img = cv2.imread(os.path.join('../balloon_dataset/balloon/val/', filename))
     # img = cv2.imread(os.path.join('balloon_dataset/balloon/train/', filename))
     height, width, _ = img.shape
     # print(filename,height,width)
@@ -76,7 +76,7 @@ for image_id, image_info in annotations.items():
         annotation_id += 1
 
 # 保存COCO格式文件
-with open('balloon_dataset/balloon/val/balloon_val_coco.json', 'w') as f:
+with open('../balloon_dataset/balloon/val/balloon_val_coco.json', 'w') as f:
 # with open('balloon_dataset/balloon/train/balloon_train_coco.json', 'w') as f:
     json.dump(coco_dict, f)
 

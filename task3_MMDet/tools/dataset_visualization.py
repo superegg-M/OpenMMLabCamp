@@ -8,7 +8,7 @@ images = []
 texts = []
 plt.figure(figsize=(16, 5))
 
-image_paths = [filename for filename in os.listdir('balloon_dataset/balloon/train')][:8]
+image_paths = [filename for filename in os.listdir('../balloon_dataset/balloon/train')][:8]
 
 for i, filename in enumerate(image_paths):
     name = os.path.splitext(filename)[0]
@@ -107,7 +107,7 @@ def show_bbox_only(coco, anns, show_label_bbox=True, is_filling=True):
     ax.add_collection(p)
 
 
-coco = COCO('balloon_dataset/balloon/train/balloon_train_coco.json')
+coco = COCO('../balloon_dataset/balloon/train/balloon_train_coco.json')
 image_ids = coco.getImgIds()
 np.random.shuffle(image_ids)
 
@@ -116,7 +116,7 @@ plt.figure(figsize=(16, 5))
 # 只可视化 8 张图片
 for i in range(8):
     image_data = coco.loadImgs(image_ids[i])[0]
-    image_path = osp.join('balloon_dataset/balloon/train/', image_data['file_name'])
+    image_path = osp.join('../balloon_dataset/balloon/train/', image_data['file_name'])
     annotation_ids = coco.getAnnIds(
         imgIds=image_data['id'], catIds=[], iscrowd=0)
     annotations = coco.loadAnns(annotation_ids)
