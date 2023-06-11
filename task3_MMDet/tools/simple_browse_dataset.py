@@ -2,6 +2,7 @@ from matplotlib import pyplot as plt
 from mmdet.registry import DATASETS, VISUALIZERS
 from mmengine.config import Config
 from mmengine.registry import init_default_scope
+import os.path as osp
 
 cfg = Config.fromfile('../config/rtmdet_balloon.py')
 
@@ -10,7 +11,7 @@ init_default_scope(cfg.get('default_scope', 'mmdet'))
 dataset = DATASETS.build(cfg.train_dataloader.dataset)
 visualizer = VISUALIZERS.build(cfg.visualizer)
 visualizer.dataset_meta = dataset.metainfo
-import ospy as osp
+
 
 plt.figure(figsize=(16, 5))
 

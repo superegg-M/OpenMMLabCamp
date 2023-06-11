@@ -1,6 +1,6 @@
 _base_ = '../../task1_MMPose/mmdetection/configs/rtmdet/rtmdet_tiny_8xb32-300e_coco.py'
 
-data_root = '../balloon_dataset/balloon/'
+data_root = 'balloon_dataset/balloon/'
 
 # 非常重要
 metainfo = {
