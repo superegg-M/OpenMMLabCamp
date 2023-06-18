@@ -27,4 +27,4 @@
 
 预测视频：
 
-[watermelon_pspnet.gif](watermelon_pspnet.gif)
+![watermelon_pspnet.gif](watermelon_pspnet.gif)
