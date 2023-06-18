@@ -23,8 +23,8 @@
 
 预测图：
 
-![watermelon_pspnet.jpg](mmsegmentation%2Foutputs%2Fwatermelon_pspnet.jpg)
+![watermelon_pspnet.jpg](outputs%2Fwatermelon_pspnet.jpg)
 
 预测视频：
 
-[watermelon_pspnet.mp4](mmsegmentation%2Foutputs%2Fwatermelon_pspnet.mp4)
+[watermelon_pspnet.mp4](outputs%2Fwatermelon_pspnet.mp4)
