@@ -1,11 +1,7 @@
-# MMagic代码实战教程
+## ControlNet装修设计图
+- 操作流程：[ControlNet设计装修图.ipynb](ControlNet%E8%AE%BE%E8%AE%A1%E8%A3%85%E4%BF%AE%E5%9B%BE.ipynb)
 
-OpenMMLab主页：https://openmmlab.com
 
-OpenXLab应用中心AIGC在线Demo：https://beta.openxlab.org.cn/apps
+- 海报：
 
-MMagic主页：https://github.com/open-mmlab/mmagic
-
-视频讲解：同济子豪兄 https://space.bilibili.com/1900783
-
-代码测试[云GPU环境](https://featurize.cn?s=d7ce99f842414bfcaea5662a97581bd1)：GPU RTX 3060、CUDA v11.2
+![海报.jpg](%E6%B5%B7%E6%8A%A5.jpg)
