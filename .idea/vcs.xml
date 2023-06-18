@@ -4,7 +4,5 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/task2_MMPretrain/mmpretrain" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/task3_MMDet/mmyolo" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/task4_MMSeg/MMSegmentation_Tutorials" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/task4_MMSeg/mmsegmentation" vcs="Git" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 ### PSPNet
 
-- 配置文件：[pspnet-watermelon87.py](mmsegmentation%2Fpspnet-watermelon87.py)
+- 配置文件：[pspnet-watermelon87.py](pspnet-watermelon87.py)
 - 训练日志：[20230617_173432](work_dirs%2F20230617_173432)
 - 验证集评估日志：[20230618_111957](work_dirs%2F20230618_111957)
 - 验证集评估指标：
