@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/task2_MMPretrain/mmpretrain" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task3_MMDet/mmyolo" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/task4_MMSeg/mmsegmentation" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/task5_MMagic/mmagic" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/task1_MMPose/mmdetection/mmdet/.mim" />
       <excludeFolder url="file://$MODULE_DIR$/task1_MMPose/mmdetection/outputs/E2_rtmdet/vis/.ipynb_checkpoints" />
       <excludeFolder url="file://$MODULE_DIR$/task1_MMPose/mmdetection/tests/data" />
